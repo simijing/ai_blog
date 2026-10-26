@@ -1,0 +1,14 @@
+# 本地验证与临时产物
+.verify/
+*.log
+*.tmp
+
+# 依赖目录（本项目无依赖，防止误提交）
+node_modules/
+
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/

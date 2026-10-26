@@ -105,7 +105,7 @@ var SITE_CONFIG = {
     },
 	{
 	  slug: "my-first-post",
-	  title: "我的第一篇文章",
+	  title: "静态博客修改发布方法",
 	  date: "2026-10-26",
 	  category: "随笔",
 	  tags: ["生活", "记录"],
